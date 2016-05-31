@@ -1,4 +1,5 @@
 # Demo: Polyglot Persistence
+This guide provides setup requirements and steps to demonstrate the concepts between polyglot persistence.  It uses a public facing ecommerce website to visually showcase different forms of data persistence and how combining a variety of data repositories leads to a modern, usable web application.
 
 ## Pre-Requisites
 None
