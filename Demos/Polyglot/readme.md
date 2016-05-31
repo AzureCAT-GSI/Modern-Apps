@@ -1,16 +1,22 @@
 # Demo: Polyglot Persistence
 This guide provides setup requirements and steps to demonstrate the concepts between polyglot persistence.  It uses a public facing ecommerce website to visually showcase different forms of data persistence and how combining a variety of data repositories leads to a modern, usable web application.
 
-## Pre-Requisites
+## Contents
+* [Pre-Requisites](#pre)
+* [Setup](#setup)
+* [Demo Steps](#demo)
+* [Clean Up](#cleanup)
+
+## <a name="pre"></a> Pre-Requisites
 None
 
-## Setup
+## <a name="setup"></a> Setup
 1. Open a browser 1.	Open a browser window and navigate to [http://docdbadventureworks.azurewebsites.net/](http://docdbadventureworks.azurewebsites.net/)
 ![Setup Image](./images/setup.png)
 
 2. Setup Complete. Continue from Demo Steps
 
-## Demo Steps
+## <a name="demo"></a> Demo Steps
 Estimated time: 10 minutes
 
 1. Begin by explaining that an ecommerce site is a great example for showcasing the strengths of multiple types of data repositories
@@ -25,5 +31,5 @@ Estimated time: 10 minutes
 
 5.	Clicking the Home button I the top right corner, summarize how while this site could have been created entirely in a relational database system, it would be difficult to maintain and scale.  Splitting components of the site into different data stores allows the application to leverage what each technology is “best” at and ensures a more scalable, cheaper solution.
 
-## Clean Up
+## <a name="cleanup"></a> Clean Up
 To clean up the demo simply close the browser tab
