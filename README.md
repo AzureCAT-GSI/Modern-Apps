@@ -5,8 +5,6 @@ Modern cloud applications offer end-user experiences and features that transcend
 Download the [PowerPoint](Architecting for Modern Cloud Applications.pptx?raw=true).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
-Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-for-modern-apps/todo.mp4).
-
 ## Demos
 1. Polyglot Persistence
 [demo script](https://github.com/GSIAzureCOE/Modern-Apps/tree/master/Demos/Polyglot)
