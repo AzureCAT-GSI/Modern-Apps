@@ -8,7 +8,21 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-for-modern-apps/todo.mp4).
 
 ## Demos
-1. Demo 1
-[[source code](https://github.com/GSIAzureCOE/Modern-Apps/blob/master/todo)]
-[[demo script](https://github.com/GSIAzureCOE/Modern-Apps/blob/master/todo.docx)]
-[[video](https://gsiazurecoecontent.blob.core.windows.net/architecting-for-modern-apps/todo.mp4)]
+1. Polyglot Persistence
+[demo script](https://github.com/GSIAzureCOE/Modern-Apps/tree/master/Demos/Polyglot)
+
+## Session Objectives
+* Understand the benefits and limitations of Platform as a Services (PaaS)
+* Integrating SaaS, PaaS, and IaaS in solutions
+* PaaS options and use cases for for Compute and PaaS for Data
+
+## Session Prerequisites
+* [Azure Subscription](https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions)
+
+## Azure Services Covered
+* [App Service](https://azure.microsoft.com/en-us/documentation/services/app-service/)
+* [DocumentDB](https://azure.microsoft.com/en-us/documentation/services/documentdb/)
+* [SQL Database](https://azure.microsoft.com/en-us/documentation/services/sql-database/)
+
+## Code of Conduct
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
