@@ -18,7 +18,7 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 * PaaS options and use cases for for Compute and PaaS for Data
 
 ## Session Prerequisites
-* [Azure Subscription](https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions)
+* None
 
 ## Azure Services Covered
 * [App Service](https://azure.microsoft.com/en-us/documentation/services/app-service/)
