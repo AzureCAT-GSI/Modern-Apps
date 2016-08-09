@@ -11,7 +11,7 @@ This guide provides setup requirements and steps to demonstrate the concepts bet
 None
 
 ## <a name="setup"></a> Setup
-1. Open a browser 1.	Open a browser window and navigate to [http://docdbadventureworks.azurewebsites.net/](http://docdbadventureworks.azurewebsites.net/)
+1. Open a browser window and navigate to [http://docdbadventureworks.azurewebsites.net/](http://docdbadventureworks.azurewebsites.net/)
 ![Setup Image](./images/setup.png)
 
 2. Setup Complete. Continue from Demo Steps
