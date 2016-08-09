@@ -7,10 +7,12 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 
 ## Demos
 1. Polyglot Persistence
-[demo script](https://github.com/GSIAzureCOE/Modern-Apps/tree/master/Demos/Polyglot)
+[[demo script]](Demos/Polyglot)
+[[demo video]](https://azurecatgsicontent.blob.core.windows.net/architecting-for-modern-apps/ModernApps-Demo-AppService.mp4)
 
 2. App Service
-[demo script](Demos/AppService)
+[[demo script]](Demos/AppService)
+[[demo video]](https://azurecatgsicontent.blob.core.windows.net/architecting-for-modern-apps/ModernApps-Demo-Polyglot.mp4)
 
 ## Session Objectives
 * Understand the benefits and limitations of Platform as a Services (PaaS)
