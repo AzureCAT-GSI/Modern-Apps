@@ -6,12 +6,12 @@ Download the [PowerPoint](Architecting for Modern Cloud Applications.pptx?raw=tr
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-1. Polyglot Persistence
-[[demo script]](Demos/Polyglot)
+1. App Service
+[[demo script]](Demos/AppService)
 [[demo video]](https://azurecatgsicontent.blob.core.windows.net/architecting-for-modern-apps/ModernApps-Demo-AppService.mp4)
 
-2. App Service
-[[demo script]](Demos/AppService)
+2. Polyglot Persistence
+[[demo script]](Demos/Polyglot)
 [[demo video]](https://azurecatgsicontent.blob.core.windows.net/architecting-for-modern-apps/ModernApps-Demo-Polyglot.mp4)
 
 ## Session Objectives
